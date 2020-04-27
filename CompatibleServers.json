@@ -4,8 +4,8 @@
   "RepositoryDescription": "A collection of ServerHubs listed by default in the Beat Saber Multiplayer/Lite mods.",
   "Servers": [
    {
-          "ServerName": "Tylers Server | BS",
-          "ServerAddress": "192.168.1.237",
+          "ServerName": "Tesseract Server",
+          "ServerAddress": "tylertech.in",
           "ServerPort": 3700
       },
       {
