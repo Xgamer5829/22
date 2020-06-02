@@ -8,6 +8,11 @@
           "ServerAddress": "bs.tesseract.fun",
           "ServerPort": 3700
       },
+	{
+          "ServerName": "Tesseract Server Local",
+          "ServerAddress": "72.68.40.209",
+          "ServerPort": 3700
+      },  
       {
           "ServerName": "Oceania Server Group - Sydney | BS",
           "ServerAddress": "osgs.ddns.net",
