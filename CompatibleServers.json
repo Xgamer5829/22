@@ -5,7 +5,7 @@
   "Servers": [
    {
           "ServerName": "Tesseract Server",
-          "ServerAddress": "tylertech.in",
+          "ServerAddress": "bs.tesseract.fun",
           "ServerPort": 3700
       },
       {
