@@ -4,7 +4,7 @@
   "RepositoryDescription": "A collection of ServerHubs listed by default in the Beat Saber Multiplayer/Lite mods.",
   "Servers": [
    {
-          "ServerName": "Tesseract Server",
+          "ServerName": "Tesseract {fun} Server",
           "ServerAddress": "bs.tesseract.fun",
           "ServerPort": 3700
       },
